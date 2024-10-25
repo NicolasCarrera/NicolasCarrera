@@ -15,6 +15,7 @@ I'm a passionate software developer with a degree in Computer Science and hands-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
 </a>
 </p>
+
 - JavaScript / TypeScript
 <p align="left">
 <!-- JavaScript -->
@@ -26,6 +27,7 @@ I'm a passionate software developer with a degree in Computer Science and hands-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="typescript" width="40" height="40" />
 </a>
 </p>
+
 - Python
 <p align="left">
 <!-- Python -->
@@ -33,6 +35,7 @@ I'm a passionate software developer with a degree in Computer Science and hands-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
 </a>
 </p>
+
 - C#
 <p align="left">
 <!-- C# -->
@@ -40,6 +43,7 @@ I'm a passionate software developer with a degree in Computer Science and hands-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
 </a>
 </p>
+
 - PHP
 <p align="left">
 <!-- PHP -->
@@ -47,6 +51,7 @@ I'm a passionate software developer with a degree in Computer Science and hands-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
 </a>
 </p>
+
 #### Frameworks & Tools
 - Spring Boot, .NET
 <p align="left">
@@ -59,6 +64,7 @@ I'm a passionate software developer with a degree in Computer Science and hands-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
 </a>
 </p>
+
 - React, Vue
 <p align="left">
 <!-- React -->
@@ -70,6 +76,7 @@ I'm a passionate software developer with a degree in Computer Science and hands-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
 </a>
 </p>
+
 - Tailwind CSS
 <p align="left">
 <!-- Tailwind css -->
@@ -77,6 +84,7 @@ I'm a passionate software developer with a degree in Computer Science and hands-
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
 </a>
 </p>
+
 - Docker / Kubernetes
 <p align="left">
 <!-- Docker -->
@@ -109,6 +117,7 @@ I'm a passionate software developer with a degree in Computer Science and hands-
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
 </a>
 </p>
+
 - **NoSQL:** MongoDB
 <p align="left">
 <!-- MongoDB -->
@@ -117,6 +126,7 @@ I'm a passionate software developer with a degree in Computer Science and hands-
         alt="mongodb" width="40" height="40" />
 </a>
 </p>
+
 ##### Cloud Platforms
 - AWS
 <p align="left">
@@ -125,6 +135,7 @@ I'm a passionate software developer with a degree in Computer Science and hands-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
 </a>
 </p>
+
 #### Version Control
 - Git
 <p align="left">
