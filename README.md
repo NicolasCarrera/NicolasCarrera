@@ -29,13 +29,14 @@ Computer Science Engineer focused on backend development, REST APIs, microservic
 | Automation | n8n workflows, Python services, external APIs, OpenAI, Whisper and AI assisted process automation. |
 | Frontend support | React, Vue, Astro, TypeScript, HTML and CSS for full stack collaboration. |
 
-## Engineering focus
+## What I build
 
-I work best where backend engineering, integrations and automation meet operational needs. My technical focus is turning manual or fragmented processes into APIs, services, workflows and deployments that are easier to maintain and measure.
-
-## Profile direction
-
-This GitHub profile highlights technical skills, tools and engineering direction. My professional trajectory is represented in LinkedIn, Multitrabajos and Computrabajo.
+| Focus | Output |
+| --- | --- |
+| API development | REST services, backend modules, integrations and maintainable service layers. |
+| Cloud deployment | Containerized applications, CI/CD workflows and cloud-ready backend environments. |
+| Process automation | Workflows that connect business tools, APIs, databases and AI services. |
+| Data support | SQL queries, reports, dashboards and operational data flows. |
 
 ## Contact
 
