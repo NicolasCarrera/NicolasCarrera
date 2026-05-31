@@ -9,9 +9,9 @@
 
 </div>
 
-## About me
+## Technical profile
 
-Computer Science Engineer based in Quito, Ecuador. I build backend services, REST APIs, microservices, data models and integrations with Java, Spring Boot, PostgreSQL, Docker and cloud platforms. I also design automation workflows with n8n, Python, external APIs and applied AI to reduce manual work and connect operational processes.
+Computer Science Engineer focused on backend development, REST APIs, microservices, relational databases, cloud deployment and process automation. I build services that are clear to maintain, easy to document and useful for real operational workflows.
 
 ## Tech stack
 
@@ -19,28 +19,23 @@ Computer Science Engineer based in Quito, Ecuador. I build backend services, RES
 <img src=https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,gcp,python,ts,react,vue,nodejs,githubactions />
 </p>
 
-## What I build
+## Core skills
 
-| Focus | Experience |
+| Area | Tools and practices |
 | --- | --- |
-| Backend systems | REST APIs, Spring Boot services, microservices, SQL optimization and database modeling. |
-| Integrations | Python services, external APIs, n8n workflows and automation between business tools. |
-| Cloud and DevOps | Dockerized services, GitHub Actions, AWS ECS/ECR/EC2/RDS and Google Cloud Platform. |
-| Product support | Internal systems, reporting workflows, documentation and technical support for users. |
+| Backend | Java, Spring Boot, REST APIs, microservices, API Gateway, service discovery and backend architecture. |
+| Databases | PostgreSQL, MySQL, MariaDB, SQL Server, SQL optimization, data modeling and reporting queries. |
+| Cloud and DevOps | Docker, GitHub Actions, CI/CD, AWS ECS/ECR/EC2/RDS/Amplify and Google Cloud Platform. |
+| Automation | n8n workflows, Python services, external APIs, OpenAI, Whisper and AI assisted process automation. |
+| Frontend support | React, Vue, Astro, TypeScript, HTML and CSS for full stack collaboration. |
 
-## Featured work
+## Engineering focus
 
-| Project or role | Highlights |
-| --- | --- |
-| Kolectivo Media LLC | Built more than 10 n8n workflows and reduced manual intervention by more than 60 percent in multimedia production processes using APIs, GCP, Docker and AI tools. |
-| Ministerio de Energia y Minas | Improved an internal reporting system with Active Directory authentication, SQL optimization, search filters, email notifications and support for internal users. |
-| IAEN | Developed REST APIs with Spring Boot and PostgreSQL for electoral data consultation and visualization. |
-| AssetTrack | Designed a microservices architecture with Spring Boot, API Gateway, PostgreSQL, Docker, AWS ECS, ECR, EC2, RDS and GitHub Actions. |
-| Health consulting platform | Built a Java Spring Boot and Vue platform for patient tracking, clinical forms, document repositories and role based access. |
+I work best where backend engineering, integrations and automation meet operational needs. My technical focus is turning manual or fragmented processes into APIs, services, workflows and deployments that are easier to maintain and measure.
 
-## Professional direction
+## Profile direction
 
-I am interested in roles where backend engineering, integrations and automation meet real operational needs. I enjoy turning unclear processes into APIs, services and workflows that are easier to maintain, deploy and measure.
+This GitHub profile highlights technical skills, tools and engineering direction. My professional trajectory is represented in LinkedIn, Multitrabajos and Computrabajo.
 
 ## Contact
 
